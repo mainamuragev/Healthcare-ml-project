@@ -10,3 +10,4 @@ wheels/
 .venv
 models/best_model.pkl
 models/*.pkl
+.env
